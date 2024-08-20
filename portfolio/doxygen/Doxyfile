@@ -1,0 +1,16 @@
+# Doxyfile 1.8.20
+
+# Project name
+PROJECT_NAME = "My Python Project"
+
+# Output directory for documentation
+OUTPUT_DIRECTORY = docs
+
+# File patterns to process
+FILE_PATTERNS = *.py
+
+# Generate HTML documentation
+GENERATE_HTML = YES
+
+# Location of HTML documentation
+HTML_OUTPUT = html
