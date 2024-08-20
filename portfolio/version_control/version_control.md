@@ -10,7 +10,7 @@
    - Open a terminal within Visual Studio Code.
    - Clone the repository using the following command:
      ```bash
-     git clone <repository_url>
+     git@github.com:monikaIBA/Portfolio.git
      ```
 
 ## Setting Up the Project Structure
